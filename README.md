@@ -34,7 +34,7 @@ meta_nasbench101_12epochs: meta-info from 423k architectures trained by 12 epoch
 meta_nasbench101_36epochs: meta-info from 423k architectures trained by 36 epochs on CIFAR-10. \
 meta_nasbench101_108epochs: meta-info from 423k architectures trained by 108 epochs on CIFAR-10. 
 
-For and [NAS-Bench-201](https://arxiv.org/abs/2001.00326):
+For [NAS-Bench-201](https://arxiv.org/abs/2001.00326):
 > meta_nasbench201_cifar10valid: meta-info from 15k architectures trained by 1, 4, 12, 36, and 200 epochs on CIFAR-10. \
 meta_nasbench201_cifar100: meta-info from 15k architectures trained by 1, 4, 12, 36, and 200 epochs on CIFAR-100. \
 meta_nasbench201_imagenet16_120: meta-info from 15k architectures trained by 1, 4, 12, 36, and 200 epochs on ImageNet16-120. \
