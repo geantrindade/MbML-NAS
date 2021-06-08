@@ -7,7 +7,7 @@ This repository is the official implementation of MbML-NAS (Model-based Meta-Lea
 
 <div align="center">
   <img src="figures/nnpp_proposal.png" width="700px" />
-  <p>Overview of the prediction-based NAS framework MbML-NAS.</p>
+  <p>Overview of the prediction-based NAS framework MbML-NAS (see figures/nnpp_proposal.png).</p>
 </div>
 
 <!-- ![proposal](figures/nnpp_proposal.png) -->
