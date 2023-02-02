@@ -1,4 +1,4 @@
-# NAS-Bench-101 and NAS-Bench-201 are Easier than You Think: Finding Good Architectures with Simple Meta-Predictors
+# Neural Architecture Search with Interpretable Meta-Features and Fast Predictors
 
 This repository is the official implementation of MbML-NAS (Model-based Meta-Learning for NAS). 
 
